@@ -37,7 +37,7 @@
   .prof-info h1{
     align-self: center;
   }
-  
+
   .prof-pic { 
     grid-area: prof-pic; 
     display:flex;
@@ -51,5 +51,5 @@
  } 
   .posts { grid-area: posts; }
 
-  .container > div {border: 2px solid black}
+  /*.container > div {border: 2px solid black}*/
 
